@@ -1,0 +1,21 @@
+.chipsimg {
+    width: 25%;
+    display: block;
+    margin: auto;
+}
+
+h1{
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+div.finale{
+    text-align: right;
+}
+
+body{
+    background-color: bisque;
+}

@@ -1,0 +1,23 @@
+body{
+    background-color: bisque;
+}
+
+h1{
+    text-align: center;
+    color: crimson;
+}
+
+h3{
+    text-align: center;
+    color: crimson;
+}
+
+.pizzaimg{
+    width: 25%;
+    display: block;
+    margin: auto;
+}
+
+div.finale{
+    text-align: right;
+}

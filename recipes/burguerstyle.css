@@ -1,0 +1,33 @@
+h1{
+    color: #009E60;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+body{
+    background-color: bisque;
+
+}
+
+.burguerimg{
+    width: 25%;
+    display: block;
+    margin: auto;
+}
+
+div.intro{
+    text-align: center;
+}
+
+h4{
+    text-align: left;
+}
+
+.intro{
+    text-align: center;
+}
+
+.finale{
+    text-align: right;
+    
+}
